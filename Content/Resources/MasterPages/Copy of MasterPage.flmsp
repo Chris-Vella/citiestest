@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy />
+        <MadCap:topicToolbarProxy class="" style="mc-topic-toolbar-items: ;" />
+        <MadCap:bodyProxy />
+        <p>
+            <img src="../Images/jimmies.png" />
+        </p>
+    </body>
+</html>
